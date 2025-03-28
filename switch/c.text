@@ -1,0 +1,32 @@
+#include <stdio.h>
+
+int main() {
+    int choice;
+
+    // Display menu
+    printf("Choose an option:\n");
+    printf("1. Say Hello\n");
+    printf("2. Say Goodbye\n");
+    printf("3. Exit\n");
+    printf("Enter your choice: ");
+    
+    // Get user input
+    scanf("%d", &choice);
+
+    // Switch case to handle options
+    switch(choice) {
+        case 1:
+            printf("Hello, World!\n");
+            break;
+        case 2:
+            printf("Goodbye!\n");
+            break;
+        case 3:
+            printf("Exiting...\n");
+            break;
+        default:
+            printf("Invalid choice. Please try again.\n");
+    }
+
+    return 0;
+

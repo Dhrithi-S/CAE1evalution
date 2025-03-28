@@ -1,2 +1,16 @@
 
 A switch statement in C is used to execute one block of code based on the value of a variable or expression. It's an alternative to multiple if-else statements when you need to compare a single variable to multiple possible values.
+#include <stdio.h>
+
+int main() {
+    int choice;
+
+    // Display menu
+    printf("Choose an option:\n");
+    printf("1. Say Hello\n");
+    printf("2. Say Goodbye\n");
+    printf("3. Exit\n");
+    printf("Enter your choice: ");
+
+    // Get user input
+    scanf("%d", &choice);

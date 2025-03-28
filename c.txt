@@ -1,0 +1,2 @@
+
+A switch statement in C is used to execute one block of code based on the value of a variable or expression. It's an alternative to multiple if-else statements when you need to compare a single variable to multiple possible values.

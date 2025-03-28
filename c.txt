@@ -14,3 +14,8 @@ int main() {
 
     // Get user input
     scanf("%d", &choice);
+    switch(choice) {
+        case 1:
+            printf("Hello, World!\n");
+            break;
+

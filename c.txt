@@ -18,4 +18,9 @@ int main() {
         case 1:
             printf("Hello, World!\n");
             break;
-
+        case 2:
+            printf("Goodbye!\n");
+            break;
+        case 3:
+            printf("Exiting...\n");
+            break;

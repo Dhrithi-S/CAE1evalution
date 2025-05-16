@@ -1,8 +1,9 @@
+
 AUB
 AIML
 Amity 
 University
-
+new line got added to this
 amity
 dhrithi
 <<<<<<< HEAD
@@ -16,6 +17,14 @@ test1
 test2
 Robotics
 Iot
+<<<<<<< HEAD
+Block chain 
+=======
 cae1 and cae2 examination
 tests
+<<<<<<< HEAD
 test1 to test3 
+=======
+>>>>>>> test
+>>>>>>> master
+>>>>>>> test

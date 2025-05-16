@@ -1,4 +1,4 @@
-#include<stdio.h>
+so#include<stdio.h>
 int main()
 {
 1=10;
@@ -7,5 +7,19 @@ area= a*b;
 print("Area");
 
 area_sqr=a*a
+
 }
 
+some of purchase amount from orders group by 
+create a tables by specifying primary key and forigen key
+2) insert around 10 record in each of the table
+3)find the names of the sailors who has reserved a red boat and list boats in the order of the age
+4)find the names of sailor who have reserved boat 103 
+5)find the name and the age od the youngest sailors
+6)find the average age of the sailor for each rating level that has atleast 2 sailors
+new line is add to the branches:wq
+
+new line got inserted
+AUB
+AMITY UNIVERSITY
+BANGLORE Rural

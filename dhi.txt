@@ -22,3 +22,4 @@ new line is add to the branches:wq
 new line got inserted
 AUB
 AMITY UNIVERSITY
+BANGLORE
